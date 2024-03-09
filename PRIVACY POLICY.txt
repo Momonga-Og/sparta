@@ -1,0 +1,41 @@
+Privacy Policy
+
+This Privacy Policy describes how Momonga ("we", "us", or "our") collects, uses, and shares your personal information when you use the Sparta bot (the "Bot").
+
+Information We Collect
+
+We may collect certain information about you when you use the Bot, including:
+
+User Provided Information: We may collect information that you provide to us when you interact with the Bot, such as your Discord username and user ID.
+Automatically Collected Information: We may automatically collect certain information about your use of the Bot, such as your IP address, device information, and usage patterns.
+How We Use Your Information
+
+We may use the information we collect for various purposes, including to:
+
+Provide and maintain the Bot;
+Improve, personalize, and optimize the Bot;
+Respond to your inquiries and requests;
+Communicate with you about the Bot and any updates or changes;
+Enforce our terms and policies.
+Sharing of Your Information
+
+We may share your personal information with third parties in the following circumstances:
+
+With service providers who help us operate the Bot and provide related services;
+With law enforcement or other government agencies if required by law or to protect our rights or the rights of others;
+In connection with a merger, acquisition, or sale of assets, in which case your information may be transferred as part of the transaction.
+Security
+
+We take reasonable measures to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
+
+Your Choices
+
+You may choose not to provide certain information to us, but this may limit your ability to use certain features of the Bot.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us via Discord at Ogthem#0000.

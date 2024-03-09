@@ -1,0 +1,47 @@
+Terms of Service
+
+These terms and conditions ("Terms") govern your access to and use of the Sparta bot (the "Bot") operated by Momonga ("we", "us", or "our").
+
+By accessing or using the Bot, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Bot.
+
+1. Use of the Bot
+
+1.1 The Bot is designed to [brief description of what the Bot does]. By using the Bot, you agree not to use it for any unlawful purposes or to violate any regulations in your jurisdiction.
+
+1.2 You agree to use the Bot only for purposes that are permitted by these Terms and any applicable law, regulation, or generally accepted practices or guidelines in the relevant jurisdictions.
+
+2. Registration and Accounts
+
+2.1 In order to access certain features of the Bot, you may be required to register for an account. When registering for an account, you agree to provide accurate and complete information about yourself.
+
+2.2 You are solely responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
+
+3. Ownership
+
+3.1 The Bot and its original content, features, and functionality are owned by Momonga and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+
+4. Termination
+
+4.1 We reserve the right to terminate or suspend access to the Bot immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms.
+
+4.2 Upon termination, your right to use the Bot will immediately cease.
+
+5. Changes
+
+5.1 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our Bot after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Bot.
+
+6. Disclaimer
+
+6.1 The Bot is provided "as is" without warranties of any kind, whether express or implied. We do not warrant that the Bot will function uninterrupted or error-free.
+
+7. Limitation of Liability
+
+7.1 In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Bot.
+
+8. Governing Law
+
+8.1 These Terms shall be governed and construed in accordance with the laws of Switzerland, without regard to its conflict of law provisions.
+
+9. Contact Us
+
+9.1 If you have any questions about these Terms, please contact us via Discord at Ogthem#0000.
